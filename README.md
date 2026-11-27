@@ -1,6 +1,4 @@
-基于表面肌电信号的手势识别研究
-
-项目名称：基于表面肌电信号的手势识别（ Surface EMG-based Hand Gesture Recognition）
+项目名称：基于表面肌电信号的手势识别（Surface EMG-based Hand Gesture Recognition）
 
 一、项目简介
 本项目基于公开表面肌电（Surface Electromyography, sEMG）数据集，利用Python开展肌电信号处理与手势识别研究。通过对原始肌电信号进行预处理、特征提取和机器学习建模，实现不同手部动作的自动分类。
